@@ -7,3 +7,14 @@ ul {
     list-style: none;
 }
 
+h1 {
+    font-size: 80px;
+}
+
+img {
+    width: 300px;
+}
+
+.container {
+    background-color: rgb(187, 185, 185);
+}
