@@ -24,8 +24,17 @@ body {
     display: flex;
     flex-direction: column;
     
+    
 }
 
 #carouselExample {
     margin-left: 100px;
+}
+
+.drawings-sec {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    
 }
