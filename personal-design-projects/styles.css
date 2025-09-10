@@ -29,6 +29,7 @@ body {
 
 #carouselExample {
     margin-left: 100px;
+    margin-bottom: 50px;
 }
 
 .drawings-sec {
@@ -37,4 +38,9 @@ body {
     justify-content: space-between;
 
     
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
