@@ -1,15 +1,10 @@
-.logo-pic {
-    width: 300px;
-}
 
-a {
+.nav-link {
     text-decoration: none;
     color: black;
-}
-
-ul {
     list-style: none;
 }
+
 
 body {
     background-color: rgb(185, 185, 185);
@@ -48,8 +43,18 @@ h2 {
 .photograph {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 20px;
 }
 
 .photograph-item {
     max-width: 600px;
 }
+
+.logo{
+    width: 300px;
+}
+
+.drawings-sec-item {
+    width: 500px;
+}
+
