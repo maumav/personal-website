@@ -40,6 +40,11 @@ h2 {
     margin-bottom: 20px;
 }
 
+h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .photograph {
     display: flex;
     justify-content: space-between;
@@ -54,7 +59,14 @@ h2 {
     width: 300px;
 }
 
-.drawings-sec-item {
+.gif-sec-item {
     width: 500px;
 }
 
+.drawing-sec-item {
+    width: 500px;
+}
+
+.drawing-sec-item {
+    margin-bottom: 10px;
+}
