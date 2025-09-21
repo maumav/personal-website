@@ -5,6 +5,9 @@
     list-style: none;
 }
 
+.logo-container {
+    display: flex;
+}
 
 body {
     background-color: rgb(185, 185, 185);
