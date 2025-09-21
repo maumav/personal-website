@@ -9,6 +9,11 @@
     width: 300px;
 }
 
+.logo-container {
+    display: flex;
+}
+
+
 body {
     background-color: rgb(185, 185, 185);
 }
@@ -17,4 +22,10 @@ nav ul li {
     display: flex;
     flex-direction: column;
     height: 50px;
+}
+
+@media (max-width: 1200px) {
+    body {
+        background-color: rgb(216, 181, 186);
+    }
 }
